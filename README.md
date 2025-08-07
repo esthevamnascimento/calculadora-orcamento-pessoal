@@ -24,7 +24,7 @@ cd calculadora-orcamento-pessoal
 # Execute o programa
 python main.py
 
-🏗️ Estrutura do Projeto
+##🏗️ Estrutura do Projeto
 
 📦 calculadora-orcamento-pessoal
 ├── 📜 main.py          → Ponto de entrada
@@ -33,8 +33,8 @@ python main.py
 └── 📜 relatorio.py     → Geração de relatórios
 
 
-🔮 Roadmap
-Próximas Atualizações
+##🔮 Roadmap
+#Próximas Atualizações
 
 ✅ Categorização de despesas
 
@@ -44,9 +44,16 @@ Próximas Atualizações
 
 ✅ Integração com bancos
 
-Diagram
+pie
+    title Prioridades de Desenvolvimento
+    "Categorização" : 35
+    "Gráficos" : 25
+    "Exportação" : 20
+    "Integração" : 20
 
-🤝 Como Contribuir
+    
+
+##🤝 Como Contribuir
 1.Faça um fork do projeto
 
 2.Crie sua branch (git checkout -b feature/nova-feature)
@@ -57,7 +64,8 @@ Diagram
 
 5.Abra um Pull Request
 
-📄 Licença
+
+##📄 Licença
 Distribuído sob licença MIT. Veja LICENSE para mais informações.
 
 📧 Contato
