@@ -71,4 +71,4 @@ Distribuído sob licença MIT. Veja LICENSE para mais informações.
 📧 Contato
 Esthevam Alvico - LinkedIn
 
-<div align="center"> Feito com ❤️ por <a href="https://github.com/esthevamnascimento">Esthevam Alvico</a> </div> ```
+<div align="center"> Feito com ❤️ por <a href="https://github.com/esthevamnascimento">Esthevam Alvico</a> </div>
